@@ -11,12 +11,6 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <properties>
-        <app.version>1.0.0</app.version>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version> <!-- Sep 22, 2025 -->
-    </properties>
-
     <modules>
         <module>algorithms</module>
         <module>challenges</module>
@@ -26,6 +20,9 @@
         <module>spring-lab</module>
     </modules>
 
+    <properties>
+        <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version> <!-- Sep 22, 2025 -->
+    </properties>
     <build>
         <pluginManagement>
             <plugins>
