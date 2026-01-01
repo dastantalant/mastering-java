@@ -1,0 +1,2 @@
+This file is loaded using FileSystemResource (file: prefix).
+It demonstrates loading files from the filesystem relative to the working directory.

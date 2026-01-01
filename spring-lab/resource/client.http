@@ -1,0 +1,43 @@
+### Example 1: @Value + Resource
+
+## Classpath resource (Value injection)
+GET http://localhost:8080/
+
+###
+
+## Classpath resource (ClassPathResource directly)
+GET http://localhost:8080/classpath
+
+###
+
+## Filesystem resource (file: prefix)
+GET http://localhost:8080/file
+
+###
+
+## URL resource (remote file)
+GET http://localhost:8080/readme
+
+###
+
+## Resource metadata info
+GET http://localhost:8080/info
+
+###
+
+### Example 2: ResourceLoader
+
+## Load users.json dynamically
+GET http://localhost:8080/json/users
+
+###
+
+## Load products.json dynamically
+GET http://localhost:8080/json/products
+
+###
+
+### Example 3: ResourcePatternResolver
+
+## Load all SQL migration files
+GET http://localhost:8080/sql
