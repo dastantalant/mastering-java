@@ -17,6 +17,5 @@
     <modules>
         <module>jlox</module>
         <module>mega</module>
-        <module>fizz-buzz</module>
     </modules>
 </project>
