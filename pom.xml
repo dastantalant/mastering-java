@@ -21,6 +21,7 @@
 
     <modules>
         <module>projects</module>
+        <module>language-features</module>
     </modules>
 
     <build>
