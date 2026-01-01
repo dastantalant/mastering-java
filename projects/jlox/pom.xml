@@ -6,12 +6,12 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.master</groupId>
-        <artifactId>java</artifactId>
+        <groupId>com.mastering</groupId>
+        <artifactId>projects</artifactId>
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>interpreter</artifactId>
+    <artifactId>jlox</artifactId>
     <packaging>jar</packaging>
 
     <properties>

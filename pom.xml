@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.master</groupId>
+    <groupId>com.mastering</groupId>
     <artifactId>java</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
@@ -20,7 +20,7 @@
     </properties>
 
     <modules>
-        <module>interpreter</module>
+        <module>projects</module>
     </modules>
 
     <build>
