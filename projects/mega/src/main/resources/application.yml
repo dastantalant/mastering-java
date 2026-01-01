@@ -1,0 +1,41 @@
+spring:
+  profiles:
+    include: mega, prefix, category
+
+mega:
+  host: https://mega24.kg
+  search-route: /ru/number/search
+  limit: 1000
+
+prefix:
+  set: 550 #, 551, 552, 553, 554, 555, 556, 557, 558, 559, 755, 880, 888, 990, 995, 997, 998, 999
+
+category:
+  list:
+    - id: 1
+      name: "Бесплатно"
+      price: "0"
+    - id: 2
+      name: "Серебро"
+      price: "300"
+    - id: 66
+      name: "Серебро спец"
+      price: "500"
+    - id: 3
+      name: "Золото"
+      price: "3000"
+    - id: 67
+      name: "Золото спец"
+      price: "5000"
+    - id: 4
+      name: "Платина"
+      price: "от 7000"
+      items:
+        - id: 46
+          price: 45000
+        - id: 47
+          price: 30000
+        - id: 48
+          price: 15000
+        - id: 49
+          price: 7500
