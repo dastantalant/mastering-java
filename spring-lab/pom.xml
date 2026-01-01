@@ -12,10 +12,6 @@
     <artifactId>spring-lab</artifactId>
     <packaging>pom</packaging>
 
-    <properties>
-        <lombok.version>1.18.42</lombok.version> <!-- Sep 18, 2025 -->
-    </properties>
-
     <modules>
         <module>resource</module>
         <module>specification</module>

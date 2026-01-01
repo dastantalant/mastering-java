@@ -21,6 +21,13 @@
     </modules>
 
     <properties>
+        <latest.java.version>25</latest.java.version>
+        <latest.spring-boot.version>4.0.0</latest.spring-boot.version> <!-- Nov 20, 2025 -->
+        <latest.lombok.version>1.18.42</latest.lombok.version> <!-- Sep 18, 2025 -->
+
+        <junit.version>6.0.1</junit.version> <!-- Oct 31, 2025 -->
+        <assertj.version>3.27.6</assertj.version> <!-- Sep 22, 2025 -->
+
         <depclean-maven-plugin.version>2.1.0</depclean-maven-plugin.version> <!-- Jun 06, 2025 -->
         <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version> <!-- Sep 22, 2025 -->
     </properties>
