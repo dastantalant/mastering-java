@@ -16,5 +16,6 @@
 
     <modules>
         <module>jlox</module>
+        <module>mega</module>
     </modules>
 </project>

@@ -1,5 +1,8 @@
-package com.master.interpreter.lox;
+package com.mastering.lox.lox;
 
+import com.mastering.lox.Scanner;
+import com.mastering.lox.Token;
+import com.mastering.lox.TokenType;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

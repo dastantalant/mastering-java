@@ -1,4 +1,4 @@
-package com.master.interpreter.lox;
+package com.mastering.lox;
 
 import java.io.BufferedReader;
 import java.io.IOException;

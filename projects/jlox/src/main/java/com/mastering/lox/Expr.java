@@ -1,4 +1,4 @@
-package com.master.interpreter.lox;
+package com.mastering.lox;
 
 abstract class Expr {
   interface Visitor<R> {

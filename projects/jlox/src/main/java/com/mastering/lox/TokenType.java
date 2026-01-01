@@ -1,4 +1,4 @@
-package com.master.interpreter.lox;
+package com.mastering.lox;
 
 public enum TokenType {
     LEFT_PAREN, RIGHT_PAREN, LEFT_BRACE, RIGHT_BRACE,

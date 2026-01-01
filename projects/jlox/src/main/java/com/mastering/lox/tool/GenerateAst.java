@@ -1,4 +1,4 @@
-package com.master.interpreter.tool;
+package com.mastering.lox.tool;
 
 import java.io.IOException;
 import java.io.PrintWriter;

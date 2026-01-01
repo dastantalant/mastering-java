@@ -1,4 +1,4 @@
-package com.master.interpreter;
+package com.mastering.lox;
 
 import java.awt.GraphicsEnvironment;
 import java.awt.Toolkit;

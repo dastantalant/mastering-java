@@ -1,4 +1,4 @@
-package com.master.interpreter.lox;
+package com.mastering.lox;
 
 public class Interpreter implements Expr.Visitor<Object> {
 
