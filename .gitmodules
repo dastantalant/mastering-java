@@ -1,0 +1,12 @@
+[submodule "design-patterns/java-design-patterns"]
+	path = design-patterns/java-design-patterns
+	url = https://github.com/iluwatar/java-design-patterns
+[submodule "challenges/leetcode/leetcode"]
+	path = challenges/leetcode/leetcode
+	url = https://github.com/neetcode-gh/leetcode.git
+[submodule "challenges/leetcode/LeetCode-Solutions"]
+	path = challenges/leetcode/LeetCode-Solutions
+	url = https://github.com/kamyu104/LeetCode-Solutions.git
+[submodule "algorithms/TheAlgorithms-Java"]
+	path = algorithms/TheAlgorithms-Java
+	url = https://github.com/TheAlgorithms/Java.git
